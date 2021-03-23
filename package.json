@@ -1,0 +1,18 @@
+{
+  "name": "onlinestore",
+  "version": "1.0.0",
+  "description": "A decentralized e-commerce application.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akathecoder",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
